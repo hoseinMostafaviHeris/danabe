@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ir.storming",
+      "nativeLanguage": "fa"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "dana",
+    "packageName": "ir.storming",
+    "packageFolder": "ir/storming",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjdmMmRlMDVjOTdjNDgzYjc0NmM5MzdjOTIyYmUzY2UzM2ZlYzA2ZWIyNGEzNWZiYjM4ZmM3M2NmZDQzOTI0NDBlZDc5NzQxNDIyMWQ4ZWZjOTgwMjZmYjNkMTQxMTUxMzFlZjBkZjdkMzZiMDgxNmFlMjg3MjM5MTU1NDEyYWQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1607914403796,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fa",
+    "languages": ["fa", "en"],
+    "blueprints": []
+  }
+}
